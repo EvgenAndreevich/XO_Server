@@ -15,7 +15,7 @@ import static java.lang.Thread.sleep;
 
 public class Client {
 
-    public static String url = "http://localhost:8082/";
+    public static String url = "https://xo-server-logics.amvera.io/";
     public static RestTemplate restTemplate = new RestTemplate();
 
 
